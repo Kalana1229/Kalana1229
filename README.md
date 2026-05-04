@@ -127,26 +127,30 @@ const skills = {
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana1229&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana1229&layout=compact&theme=tokyonight&cache_seconds=1800" 
+    height="180"
+  />
+</p>
 
-<br/>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=kalana1229&theme=tokyonight&cache_seconds=1800" 
+    height="180"
+  />
+</p>
 
-<div align="center">
-  <img width="80%"
-       src="https://streak-stats.demolab.com?user=kalana1229&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&theme=tokyo-night" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+</p>
 
 ---
 
