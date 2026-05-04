@@ -25,7 +25,7 @@
 ```javascript
 /**
  * @dev  Kalana Methmina
- * @role Frontend Developer 🇱🇰
+ * @role Software Developer 🇱🇰
  */
 
 const whoami = {
