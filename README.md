@@ -125,26 +125,27 @@ const skills = {
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00ffe5&text_color=c9d1d9&bg_color=0d1117" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana1229&theme=tokyonight&hide_border=true&layout=compact&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana1229&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kalana1229&theme=tokyonight&hide_border=true&stroke=00c8ff&ring=00ffe5&fire=ff6b6b&currStreakLabel=00c8ff&background=0d1117" alt="kalana1229 streak stats"/>
+  <img width="80%"
+       src="https://streak-stats.demolab.com?user=kalana1229&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&bg_color=0d1117&color=00c8ff&line=00ffe5&point=ffffff&area=true&area_color=00c8ff&hide_border=true&custom_title=Kalana's%20Contribution%20Graph" />
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&theme=tokyo-night" />
 </div>
 
 ---
