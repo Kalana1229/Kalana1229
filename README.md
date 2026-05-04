@@ -128,13 +128,17 @@ const skills = {
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00ffe5&text_color=c9d1d9&bg_color=0d1117" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalana1229&theme=tokyonight&hide_border=true&layout=compact&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana1229&theme=tokyonight&hide_border=true&layout=compact&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalana1229&theme=tokyonight&hide_border=true&stroke=00c8ff&ring=00ffe5&fire=ff6b6b&currStreakLabel=00c8ff&background=0d1117" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kalana1229&theme=tokyonight&hide_border=true&stroke=00c8ff&ring=00ffe5&fire=ff6b6b&currStreakLabel=00c8ff&background=0d1117" alt="kalana1229 streak stats"/>
 </div>
 
 <br/>
@@ -148,7 +152,7 @@ const skills = {
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kalana-methmina-b1a47028a/" target="blank">
+  <a href="https://linkedin.com/in/kalana-methmina" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/kalana-supun" target="blank">
@@ -168,7 +172,7 @@ const skills = {
 
 ### 🐍 Watch my contribution snake!
 
-<img src="https://raw.githubusercontent.com/kalana1229/kalana1229/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
