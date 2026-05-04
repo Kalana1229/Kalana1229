@@ -31,8 +31,8 @@
 const whoami = {
   name      : "Kalana Methmina",
   location  : "Sri Lanka 🇱🇰",
-  education : "BSc (Hons) IT · SE @ SLIIT · 3rd Year",
-  role      : "Frontend Developer",
+  education : "BSc (Hons) IT · SE @ SLIIT · 4rd Year",
+  role      : "Software Developer",
 };
 
 const now = {
