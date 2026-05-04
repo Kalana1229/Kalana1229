@@ -6,13 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=🚀+Building+Finance+Tracker+API+with+Node.js;⚡+Exploring+Microkernel+Architecture+%2B+OSGi;🌐+React+%7C+Angular+%7C+Node.js+%7C+MongoDB;🤝+Looking+to+Collaborate+on+MERN+Projects;📝+Writing+about+Software+Architecture+%26+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=🚀+Building+Finance+Tracker+API+with+Node.js;⚡+Exploring+Microkernel+Architecture+%2B+OSGi;🌐+React+%7C+Angular+%7C+Node.js+%7C+MongoDB;🤝+Open+to+Collaborate+on+MERN+Projects;📝+Writing+about+Architecture+%26+Security)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kalana1229&label=Profile%20views&color=0070ff&style=for-the-badge" alt="kalana1229" />
@@ -23,32 +23,46 @@
 <h2>👨‍💻 About Me</h2>
 
 ```javascript
-const kalana = {
-  name     : "Kalana Methmina",
-  location : "Sri Lanka 🇱🇰",
-  education: "BSc (Hons) IT — Software Engineering @ SLIIT (3rd Year)",
-  role     : "Frontend Developer",
-  current  : "Building a secure RESTful API — Personal Finance Tracker",
-  stack    : "Node.js + MongoDB + JWT Auth + Rate Limiting",
-  learning : "Microkernel Architecture with OSGi",
-  seeking  : "MERN / MEAN full-stack collaborators",
-  writing  : "Software Dev, Architecture & Security articles",
-  askMeAbout : ["React", "Node.js", "Express", "MongoDB", "Tailwind", "PHP", "Java"],
-  email      : "kalanamethmina@gmail.com",
-  funFact    : "I dedicate 6 hrs/week to learning new coding skills 🚀",
+/**
+ * @dev  Kalana Methmina
+ * @role Frontend Developer 🇱🇰
+ */
+
+const whoami = {
+  name      : "Kalana Methmina",
+  location  : "Sri Lanka 🇱🇰",
+  education : "BSc (Hons) IT · SE @ SLIIT · 3rd Year",
+  role      : "Frontend Developer",
 };
+
+const now = {
+  building  : "Secure RESTful API — Finance Tracker 💰",
+  techStack : "Node.js · MongoDB · JWT · Rate Limiting",
+  learning  : "Microkernel Architecture + OSGi 🧩",
+  seeking   : "MERN / MEAN collaborators 🤝",
+  writing   : "Architecture · Security · Dev articles ✍️",
+};
+
+const skills = {
+  askMeAbout : ["React", "Node.js", "Express",
+                "MongoDB", "Tailwind", "PHP", "Java"],
+  email      : "kalanamethmina@gmail.com 📫",
+  funFact    : "6 hrs/week mastering new tech 🚀",
+};
+
+// Always learning. Always shipping. ⚡
 ```
 
 <br/>
 
-- 🔭 I'm currently working on a **secure RESTful API** for a **Personal Finance Tracker System** using **Node.js** and **MongoDB**
-- 🌱 I'm currently learning **Microkernel Architecture** with **OSGi**
-- 👯 I'm looking to collaborate on **Full-stack web development projects (MERN / MEAN)**
-- 🤝 I'm looking for help with **Optimizing microservices and API security**
-- 📝 I regularly write articles on **Software Development, Architecture, and Security**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS, PHP, Java**
+- 🔭 Building a **secure RESTful API** — Personal Finance Tracker with **Node.js + MongoDB**
+- 🌱 Currently learning **Microkernel Architecture** with **OSGi**
+- 👯 Looking to collaborate on **MERN / MEAN** full-stack projects
+- 🤝 Seeking help with **microservices optimization & API security**
+- 📝 Writing about **Software Dev, Architecture & Security**
+- 💬 Ask me about **React · Node.js · Express · MongoDB · Tailwind · PHP · Java**
 - 📫 Reach me at **kalanamethmina@gmail.com**
-- ⚡ Fun fact — I dedicate **6 hours weekly** to learning new coding skills! 🚀
+- ⚡ Fun fact — **6 hours weekly** dedicated to learning new coding skills! 🚀
 
 <br/>
 
@@ -57,7 +71,7 @@ const kalana = {
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalana1229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="kalana1229 trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kalana1229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
 ---
@@ -65,7 +79,6 @@ const kalana = {
 <h2 align="left">🛠️ Languages & Tools</h2>
 
 <h4 align="left">🎨 Frontend</h4>
-
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -77,7 +90,6 @@ const kalana = {
 </p>
 
 <h4 align="left">⚙️ Backend & Languages</h4>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -90,7 +102,6 @@ const kalana = {
 </p>
 
 <h4 align="left">🗄️ Databases</h4>
-
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -100,7 +111,6 @@ const kalana = {
 </p>
 
 <h4 align="left">🔧 Tools & Platforms</h4>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -118,19 +128,19 @@ const kalana = {
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00ffe5&text_color=c9d1d9&bg_color=0d1117" alt="kalana1229 stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalana1229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00ffe5&text_color=c9d1d9&bg_color=0d1117" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalana1229&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" alt="kalana1229 top langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalana1229&theme=tokyonight&hide_border=true&layout=compact&title_color=00c8ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalana1229&theme=tokyonight&hide_border=true&stroke=00c8ff&ring=00ffe5&fire=ff6b6b&currStreakLabel=00c8ff&background=0d1117" alt="kalana1229 streak"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalana1229&theme=tokyonight&hide_border=true&stroke=00c8ff&ring=00ffe5&fire=ff6b6b&currStreakLabel=00c8ff&background=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&bg_color=0d1117&color=00c8ff&line=00ffe5&point=ffffff&area=true&area_color=00c8ff&hide_border=true&custom_title=Kalana's%20Contribution%20Graph" alt="activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalana1229&bg_color=0d1117&color=00c8ff&line=00ffe5&point=ffffff&area=true&area_color=00c8ff&hide_border=true&custom_title=Kalana's%20Contribution%20Graph" />
 </div>
 
 ---
@@ -139,16 +149,16 @@ const kalana = {
 
 <p align="left">
   <a href="https://linkedin.com/in/kalana-methmina" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/kalana-supun" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:kalanamethmina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Kalana1229" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
