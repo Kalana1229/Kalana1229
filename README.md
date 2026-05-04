@@ -148,7 +148,7 @@ const skills = {
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/kalana-methmina" target="blank">
+  <a href="https://www.linkedin.com/in/kalana-methmina-b1a47028a/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/kalana-supun" target="blank">
